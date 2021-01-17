@@ -11,14 +11,14 @@ I am a junior Java programmer and Developer of robotic processes (RPA), certifie
 ### Some web projects
 
 * Big Game Survey
-  * About: Project with the objective of collecting data through a mobile App developed in React Native and exhibiting on the dashboard in a Web application with React.js.
-  * Link: https://sdsapp.netlify.app/
-  * Repository: https://github.com/RaifePaiva/SDS_DsPesquisa
+  * **About**: Project with the objective of collecting data through a mobile App developed in React Native and exhibiting on the dashboard in a Web application with React.js.
+  * **Link**: https://sdsapp.netlify.app/
+  * **Repository**: https://github.com/RaifePaiva/SDS_DsPesquisa
   
 * DS Delivery
-  * About: DS Delivery, is a web project that represents a food delivery system. Developed in React on the front-end and spring framework on the back-end..
-  * Link: https://sdsdeliver-ds.netlify.app/
-  * Repository: https://github.com/RaifePaiva/dsdeliver-devsuperior2
+  * **About**: DS Delivery, is a web project that represents a food delivery system. Developed in React on the front-end and spring framework on the back-end..
+  * **Link**: https://sdsdeliver-ds.netlify.app/
+  * **Repository**: https://github.com/RaifePaiva/dsdeliver-devsuperior2
 
 
 <!--
