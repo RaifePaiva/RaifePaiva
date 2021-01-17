@@ -11,12 +11,12 @@ I am a junior Java programmer and Developer of robotic processes (RPA), certifie
 ### Some web projects
 
 * Big Game Survey
-  * About: Project developed in React on the front-end and Spring on the back-end.
+  * About: Project developed in React on the front-end and Spring Framework on the back-end.
   * Link: https://sdsapp.netlify.app/
   * Repository: https://github.com/RaifePaiva/SDS_DsPesquisa
   
 * DS Delivery
-  * About: Project developed in React on the front-end and Spring on the back-end + PostgreSQL.
+  * About: Project developed in React on the front-end and Spring Framework on the back-end + PostgreSQL.
   * Link: https://sdsdeliver-ds.netlify.app/
   * Repository: https://github.com/RaifePaiva/dsdeliver-devsuperior2
 
