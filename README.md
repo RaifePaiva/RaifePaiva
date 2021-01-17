@@ -7,6 +7,7 @@
 I am a junior Java programmer and Developer of robotic processes (RPA), certified by UiPath.
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=RaifePaiva)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaifePaiva&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ###Some web projects
 
