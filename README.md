@@ -4,21 +4,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raifeferreira/)](https://www.linkedin.com/in/raifeferreira/)
 
 ### About me
-I am a junior Java programmer and Developer of robotic processes (RPA), certified by UiPath.
+I am a Java programmer and Developer of robotic processes (RPA), certified by UiPath.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaifePaiva&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-### Some web projects
-
-* Big Game Survey
-  * **About**: Project with the objective of collecting data through a mobile App developed in React Native and exhibiting on the dashboard in a Web application with React.js.
-  * **Link**: https://sdsapp.netlify.app/
-  * **Repository**: https://github.com/RaifePaiva/SDS_DsPesquisa
-  
-* DS Delivery
-  * **About**: DS Delivery, is a web project that represents a food delivery system. Developed in React on the front-end and spring framework on the back-end..
-  * **Link**: https://sdsdeliver-ds.netlify.app/
-  * **Repository**: https://github.com/RaifePaiva/dsdeliver-devsuperior2
 
 
 <!--
